@@ -10,6 +10,7 @@
   "author": "Matthew Stanley",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "particle-api-js": "^8.0.0"
   }
 }
