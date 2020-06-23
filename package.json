@@ -5,6 +5,7 @@
   "main": "app.js",
   "keywords": "particle keepalive cellular",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matthew Stanley",
